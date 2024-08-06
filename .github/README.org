@@ -14,8 +14,14 @@ So here I am, now learning rust with a cowsay close based off of a Deltarune cha
 Install Rust and Cargo, a common way of doing this is with the rustup toolchain.
 
 Once you have installed Cargo, build it by running the below command:
+
 #+BEGIN_SRC
   % cargo build --release
-  % ./target/release/ralsay-rs
+  % ./target/release/ralsay-rs "Hello, world!
 #+END_SRC
+
+And you will be met with Ralsei repeating what you said.
+
+-----
+
 #+html: <div align="right"><img src="media/ralsei.png" height="72"></img></div>
