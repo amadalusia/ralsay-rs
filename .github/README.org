@@ -1,9 +1,13 @@
 *** ralsay-rs
 ****** cowsay with the deltarune character
 
+*** WIP ⚠️
+This project is NOT finished, nor is it functional yet.
+If you want to actively track this repository, I recommend watching this.
+
 -----
 *** Lore
-I was in a voice chat with friends and one of them had the nickname "ralsay" (based off of Ralsei),
+I was in a voice chat with friends and one of them had the nickname "ralsay" (based off of Ralsei).
 I made a joke suggesting for them to make a tool called "ralsay" based off of cowsay, and they had done it... in Lua?!
 Earlier, I was talking about how I never really got to use Rust, and one of my other friends was a Rust shill.
 Once the project was finished by "ralsay", I was going to rewrite it in Python, but then that same friend suggested Rust.
