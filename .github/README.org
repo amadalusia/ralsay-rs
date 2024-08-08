@@ -1,10 +1,6 @@
 *** ralsay-rs
 ****** cowsay with the deltarune character
 
-*** WIP ⚠️
-This project is NOT finished, nor is it functional yet.
-If you want to actively track this repository, I recommend watching this.
-
 -----
 *** Lore
 I was in a voice chat with friends and one of them had the nickname "ralsay" (based off of Ralsei).
