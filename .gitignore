@@ -1,7 +1,9 @@
 .direnv/
 **/*~
+**/.#*
+**/#*#
 
 # Added by cargo
 
 /target
-src/main.org
+/result
