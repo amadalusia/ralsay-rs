@@ -24,7 +24,7 @@ And you will be met with Ralsei repeating what you said.
 
 *** Creds
 
-[[Bikoil][https://github.com/bikoil]] - Creator of the Lua version which I used as inspiration.
+[[https://github.com/bikoil][Bikoil]] - Creator of the Lua version which I used as inspiration.
 
 -----
 
